@@ -17,7 +17,7 @@ h1,h2,h3,h4,h5,h6{
 
 .content h1{
     font-family: 'Kaushan Script', cursive;
-    color: #D74942;
+    color: #ffffff;
     font-size: 50px;
     text-shadow: 4px 4px 5px rgba(0,0,0,0.5);
 }
@@ -134,7 +134,7 @@ h1,h2,h3,h4,h5,h6{
 .btn{
     padding: 10px 20px;
     border-radius: 5px;
-    border: #D4C31C;
+    border: #1c1c1d;
     background-color: #2196F3;
     color: black;
     margin: 10px 0;
@@ -151,7 +151,7 @@ h1,h2,h3,h4,h5,h6{
     font-family: 'Signika Negative', sans-serif;
     padding: 10px 50px;
     border-radius: 30px;
-    border: 2px solid #D4C31C;
+    border: 2px solid #B6B6B6;
     background-color: transparent;
     color: white;
     font-weight: 600;
